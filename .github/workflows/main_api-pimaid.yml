@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'api-pimaid'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C673158FBEF4CC9823CC2A8A7722D78 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_976B6AA6E0BE4EC8B3135CD4FA83C6A9 }}
           package: '*.jar'
